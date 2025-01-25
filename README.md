@@ -1,4 +1,4 @@
-##Kyuubi Discord Bot
+## Kyuubi Discord Bot
 
 This bot responds to users messages in discord channel of the server.
 
